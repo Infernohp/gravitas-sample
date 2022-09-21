@@ -1,0 +1,29 @@
+.head{
+    text-align: left;
+    color: white;
+  }
+
+.p1{
+    text-align: left;
+    color: black;
+}
+.Gr{
+    background-color: orange;
+    margin:0px;
+    padding: 0;
+}
+
+.head1{
+    text-align: left;
+    color: blue;
+}
+
+.cs{
+    background-color: yellow;
+    margin:0px;
+    padding: 0;
+}
+
+.pcs{
+    color:brown;
+}
